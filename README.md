@@ -17,3 +17,4 @@
 <a href="https://www.linkedin.com/in/leonjrmartins/" target="_blank"><i class="fab fa-linkedin fa-2x fa-sm"></i></a>
 <a href="https://github.com/leon-junio" target="_blank"><i class="fab fa-github fa-2x fa-sm"></i></a>
 <a href="https://www.youtube.com/channel/UCjLj-ZZKSv5Fd05AzSVajiw" target="_blank"><i class="fab fa-youtube fa-2x fa-sm"></i></a>
+<hr>
