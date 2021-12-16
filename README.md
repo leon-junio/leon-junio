@@ -8,3 +8,4 @@
 - 🧰 Call me in the https://www.linkedin.com/in/leonjrmartins/
 - 💻 I have my own dev team called "Leon System's" that can be reached at http://leonsolucoes.epizy.com
 - 📫 How to reach me leondev.martins@gmail.com
+<hr>
