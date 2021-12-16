@@ -1,4 +1,3 @@
-<hr>
 - 👋 Hi, I’m @leon-junio
 - 👀 I’m interested in Python, Java, JavaScript, Frameworks, MRI treatment and Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
 - 🌱 I’m currently learning C++, C, AJAX, JQuery and Node.js.
