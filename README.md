@@ -29,5 +29,10 @@
 
 <div align="center"> 
   <a href = "mailto:leondev.martins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonjrmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="http://instagram.com/leonjrmartins" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+  <a href="http://facebook.com/leonjrmartins" target="_blank"><i class="fab fa-facebook-square fa-2x fa-sm"></i></a>
+  <a href="http://twitter.com/leonjrmartins" target="_blank"><i class="fab fa-twitter fa-2x fa-sm"></i></a>
+  <a href="https://www.linkedin.com/in/leonjrmartins/" target="_blank"><i class="fab fa-linkedin fa-2x fa-sm"></i></a>
+  <a href="https://github.com/leon-junio" target="_blank"><i class="fab fa-github fa-2x fa-sm"></i></a>
+  <a href="https://www.youtube.com/channel/UCjLj-ZZKSv5Fd05AzSVajiw" target="_blank"><i class="fab fa-youtube fa-2x fa-sm"></i></a> 
 </div>
