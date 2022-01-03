@@ -19,10 +19,10 @@
 </div>
 
 <hr>
+
 [![Linkedin: leonjrmartins](https://img.shields.io/badge/-leonjrmartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonjrmartins/)](https://www.linkedin.com/in/leonjrmartins/)
 [![GitHub leon-junio](https://img.shields.io/github/followers/leon-junio?label=follow&style=social)](https://github.com/leon-junio)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://leonsolucoes.epizy.com/)](https://leonsolucoes.epizy.com/)
-<hr>
 
 ### 👨‍💻 Programming languages
 
@@ -89,7 +89,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
+### 📲 Social
 <div align="center"> 
   <a href = "mailto:leondev.martins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://instagram.com/leonjrmartins"><img src="https://img.shields.io/badge/<Leon Junio>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
