@@ -100,3 +100,13 @@
   <a href="https://github.com/leon-junio"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCjLj-ZZKSv5Fd05AzSVajiw"><img src="https://img.shields.io/badge/Leon Junio Martins-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a> 
 </div>
+
+### ⚡ Technologies
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=leon-junio&theme=tokyonight" />
+
+- 📚 Service control and Kanban with **Miro**
+- 🌎 Host with **Repl.it** and **Epizy**
+- ☕ Libraries Extensions from Java **BeansBinding**,**IcePDF**,**JCalendar**,**JSOUP** and more
+- 🔧 Database manager with **PHPmyAdmin** and **Oracle Workbench**
+- 👀 Observability with **Kiali, Prometheus, Jaeger, Grafana**
+- 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
