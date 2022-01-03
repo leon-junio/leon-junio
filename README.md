@@ -1,4 +1,4 @@
-<div><h1>Who I am ? �👨🏽‍🎓</h1></div>
+<div><h1>Who I am ? 🤓</h1></div>
 
 - 👋 Hi, I’m @leon-junio
 - 👀 I’m interested in Python, Java, JavaScript, Frameworks, MRI treatment and Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
