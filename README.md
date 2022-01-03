@@ -92,10 +92,10 @@
 ### 📲 Social
 <div align="center"> 
   <a href = "mailto:leondev.martins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://instagram.com/leonjrmartins"><img src="https://img.shields.io/badge/<Leon Junio>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+  <a href="http://instagram.com/leonjrmartins"><img src="https://img.shields.io/badge/Leon Junio Martins-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="http://facebook.com/leonjrmartins"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
-  <a href="http://twitter.com/leonjrmartins"><img src="https://img.shields.io/badge/<leonjrmartins>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="http://twitter.com/leonjrmartins"><img src="https://img.shields.io/badge/leonjrmartins-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonjrmartins/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/leon-junio"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCjLj-ZZKSv5Fd05AzSVajiw"><img src="https://img.shields.io/badge/<Leon Junio>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCjLj-ZZKSv5Fd05AzSVajiw"><img src="https://img.shields.io/badge/Leon Junio Martins-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a> 
 </div>
