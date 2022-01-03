@@ -1,4 +1,4 @@
-<div><h1>Who I am ?</h1></div>
+<div><h1>Who I am ? 🧑🏽</h1></div>
 
 - 👋 Hi, I’m @leon-junio
 - 👀 I’m interested in Python, Java, JavaScript, Frameworks, MRI treatment and Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
@@ -11,7 +11,7 @@
 - 💻 I have my own dev team called "Leon System's" that can be reached at https://leonsolucoes.epizy.com
 - 📫 How to reach me leondev.martins@gmail.com
 
-<div><h1>Stats</h1></div>
+<div><h1>My Stats 😎</h1></div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leon-junio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
