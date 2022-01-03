@@ -18,11 +18,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-junio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
 [![Twitter: leonjrmartins](https://img.shields.io/twitter/follow/leonjrmartins?style=social)](https://twitter.com/leonjrmartins)
 [![Linkedin: leonjrmartins](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonjrmartins/)](https://www.linkedin.com/in/leonjrmartins/)
 [![GitHub leon-junio](https://img.shields.io/github/followers/leon-junio?label=follow&style=social)](https://github.com/leon-junio)
-</div>
 
 <div align="center"> 
   <a href = "mailto:leondev.martins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
