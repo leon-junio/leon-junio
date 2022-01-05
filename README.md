@@ -104,5 +104,5 @@
 - 🌎 Host with **Repl.it** and **Epizy**
 - ☕ Libraries Extensions from Java **BeansBinding**,**IcePDF**,**JCalendar**,**JSOUP** and more
 - 🔧 Database manager with **PHPmyAdmin** and **Oracle Workbench**
-- 👀 Observability with **Kiali, Prometheus, Jaeger, Grafana**
+- 👀 Design control and projects with **Figma, Photoshop, Miro, StarUML**
 - 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
