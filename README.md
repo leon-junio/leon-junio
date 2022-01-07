@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++, C, AJAX, JQuery and Node.js.
 - 🕶  I have 4 years of full experience with Java, Swing, JFrames, Android Development, WebDevelopment and API's.
 - 🏅 3-time Progaramation Marathon Champion and 🥉 in Federal Institute of Brazil Development Championship.
-- 💻 I have my own dev team that can be reached at https://leonsolucoes.epizy.com
+- 💻 See my projects and little more about my knowledge at https://leonsolucoes.epizy.com
 
 <div><h2>My Stats 😎</h2></div>
 
