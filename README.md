@@ -15,7 +15,7 @@
 </div>
 
 <hr>
-<div><h2>Knowledge and contact 👀</h2></div>
+<div><h2>Knowledge and contact 👀📚</h2></div>
 
 [![Linkedin: leonjrmartins](https://img.shields.io/badge/-leonjrmartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonjrmartins/)](https://www.linkedin.com/in/leonjrmartins/)
 [![GitHub leon-junio](https://img.shields.io/github/followers/leon-junio?label=follow&style=social)](https://github.com/leon-junio)
