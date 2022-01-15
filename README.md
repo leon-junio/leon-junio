@@ -108,5 +108,5 @@
 - 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/lexizz7/lexizz7"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/leon-junio/leon-junio"></a>
 </p>
