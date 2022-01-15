@@ -106,3 +106,7 @@
 - 🔧 Database manager with **PHPmyAdmin** and **Oracle Workbench**
 - 👀 Design control and projects with **Figma, Photoshop, Miro, StarUML**
 - 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/lexizz7/lexizz7"></a>
+</p>
