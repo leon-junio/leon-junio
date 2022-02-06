@@ -4,7 +4,7 @@
 - 👀 I’m interested in Python, Java, JavaScript, Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
 - 🌱 I’m currently learning AJAX, JQuery, React and Node.js.
 - 🕶  I have 4 years of full experience with Java, Swing, Desktop systems development, Android Development (native), Web development and knowledge about API's.
-- 🏅 3-time Progaramation Marathon Champion and 🥉 in Federal Institute of Brazil Development Championship.
+- 🏅 3-time Progaramation Marathon Champion and 🥉third place in Federal Institute of Brazil Development Championship.
 - 💻 See my projects and little more about me at https://leonsolucoes.epizy.com
 
 <div><h2>My Stats 😎</h2></div>
