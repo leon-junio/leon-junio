@@ -1,9 +1,9 @@
 <div><h2>Who am I ? 🤓</h2></div>
 
 - 👋 Hi, I’m @leon-junio
-- 👀 I’m interested in Python, Java, JavaScript, Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
-- 🌱 I’m currently learning AJAX, JQuery, React and Node.js.
-- 🕶  I have 5 years of full experience with Java, Swing, Desktop systems development, Android Development (native), Web development and knowledge about API's.
+- 👀 I’m interested in Java, JavaScript, Python, C, C++, Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
+- 🌱 I’m currently learning Azure Development, Bots frameworks, Spark/Spring framework and advanced AI.
+- 🕶  I have 5 years of full experience with Java, Swing, Desktop systems development, Android Development (native), Web development (REST/SOAP) and knowledge about API's.
 - 🏅 3-time Progaramation Marathon Champion and 🥉third place in Federal Institute of Brazil Development Championship.
 - 💻 See my projects and little more about me at https://leonsolucoes.epizy.com
 
