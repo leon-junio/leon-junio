@@ -102,7 +102,7 @@
 
 - 📚 Service control and Kanban with **Miro**
 - 🌎 Host with **Repl.it** and **Epizy**
-- ☕ Libraries Extensions from Java **BeansBinding**,**IcePDF**,**JCalendar**,**JSOUP** and more
+- ☕ Libraries Extensions from Java **MAVEN**,**IcePDF**,**JCalendar**,**GSON** and more
 - 🔧 Database manager with **PHPmyAdmin** and **Oracle Workbench**
 - 👀 Design control and projects with **Figma, Photoshop, Miro, StarUML**
 - 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
