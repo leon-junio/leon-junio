@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Azure Development, Bots frameworks, Spark/Spring framework and advanced AI.
 - 🕶  I have 5 years of full experience with Java, Swing, Desktop systems development, Android Development (native), Web development (REST/SOAP) and knowledge about API's.
 - 🏅 3-time Progaramation Marathon Champion and 🥉third place in Federal Institute of Brazil Development Championship.
-- 💻 See my projects and experience at https://leonsolucoes.epizy.com
+- 💻 See my projects and experience here: https://leonsolucoes.epizy.com
 
 <div><h2>My Stats 😎</h2></div>
 
