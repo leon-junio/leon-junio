@@ -107,6 +107,6 @@
 - 👀 Design control and projects with **Figma, Photoshop, Miro, StarUML**
 - 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/leon-junio/leon-junio"></a>
-</p>
+<div align="center"> 
+  <h2>Projects and repositories ⬇ </h2>
+</div>
