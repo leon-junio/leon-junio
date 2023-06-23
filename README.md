@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @leon-junio
 - 👀 I’m interested in Java, JavaScript, Python, C, C++, Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
-- 🌱 I’m currently learning Azure Development, Bots frameworks, Spark/Spring framework and advanced AI.
+- 🌱 I’m currently learning Web backend Development, AI chat, Spring framework.
 - 🕶  I have 5 years of full experience with Java, GUI interfaces, Desktop systems development, Android Development (native), Web development (REST/SOAP), API's, Migrations, Full stack development, Artificial Inteligence with Python, WEB with JavaScript and PHP.
 - 🏅 3-time Progaramation Marathon Champion and 🥉third place in Federal Institute of Brazil Development Championship.
 - 💻 See my projects and experience here: https://leonsolucoes.epizy.com
