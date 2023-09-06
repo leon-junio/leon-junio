@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Web backend Development, AI chat, Spring framework.
 - 🕶  I have 5 years of full experience with Java, GUI interfaces, Desktop systems development, Android Development (native), Web development (REST/SOAP), API's, Migrations, Full stack development, Artificial Inteligence with Python, WEB with JavaScript and PHP.
 - 🏅 3-time Progaramation Marathon Champion and 🥉third place in Federal Institute of Brazil Development Championship.
-- 💻 See my projects and experience here: https://leonsolucoes.epizy.com
+- 💻 See more here: https://leonjr.dev
 
 <div><h2>My Stats 😎</h2></div>
 
