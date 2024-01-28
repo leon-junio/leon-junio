@@ -1,10 +1,10 @@
 <div><h2>About me 🤓</h2></div>
 
 - 👋 Hi, I’m @leon-junio
-- 👀 I’m interested in Java, JavaScript, Python, C, C++, Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
-- 🌱 I’m currently learning Web backend Development, AI chat, Spring framework.
-- 🕶  I have 5 years of full experience with Java, GUI interfaces, Desktop systems development, Android Development (native), Web development (REST/SOAP), API's, Migrations, Full stack development, Artificial Inteligence with Python, WEB with JavaScript and PHP.
-- 🏅 3-time Progaramation Marathon Champion and 🥉third place in Federal Institute of Brazil Development Championship.
+- 👀 I’m interested in Java, JavaScript, Python, C, C++, PHP, Backend Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
+- 🌱 I’m currently learning AI chat, Automatic fill forms with AI, generative AI, backend security, docker compose.
+- 🕶  I have 6 years of full experience with Java, GUI interfaces, Backend, Backend architecture with docker, Desktop development, Mobile Development (native and flutter), Web development (REST/SOAP), API's, Migrations, Full stack development, Artificial Inteligence with Python, WEB with JavaScript and PHP.
+- 🏅 3-time Progaramation Marathon Champion, 🥉third place in Federal Institute of Brazil Development Championship, Alfa Engenharia 2023 hackathon champion team.
 - 💻 See more here: https://leonjr.dev
 
 <div><h2>My Stats 😎</h2></div>
@@ -99,16 +99,6 @@
   <a href="https://github.com/leon-junio"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCjLj-ZZKSv5Fd05AzSVajiw"><img src="https://img.shields.io/badge/Leon Junio Martins-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a> 
 </div>
-
-### ⚡ Technologies
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=leon-junio&theme=tokyonight" />
-
-- 📚 Service control and Kanban with **Miro**
-- 🌎 Host with **Repl.it** and **Epizy**
-- ☕ Libraries Extensions from Java **MAVEN**,**IcePDF**,**JCalendar**,**GSON** and more
-- 🔧 Database manager with **PHPmyAdmin** and **Oracle Workbench**
-- 👀 Design control and projects with **Figma, Photoshop, Miro, StarUML**
-- 💬 Programming with **C++, C, Python, Java, C#, JavaScript and PHP**
 
 <div align="center"> 
   <h2>Projects and repositories ⬇ </h2>
