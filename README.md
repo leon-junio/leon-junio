@@ -1,6 +1,6 @@
 <div><h2>About me</h2></div>
 
-- Hi, I’m @leon-junio
+- Hi, I’m @leon-junio, a computer science graduate.
 - I’m interested in Java, JavaScript, Python, C, C++, PHP, Backend Frameworks, Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
 - I’m currently learning AI chat, Automatic fill forms with AI, generative AI, backend security, docker compose.
 - I have 6 years of full experience with Java, GUI interfaces, Backend, Backend architecture with docker, Desktop development, Mobile Development (native and flutter), Web development (REST/SOAP), API's, Migrations, Full stack development, Artificial Inteligence with Python, WEB with JavaScript and PHP.
