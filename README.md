@@ -1,9 +1,9 @@
 <div><h2>About me</h2></div>
 
 - Hi, I’m @leon-junio, a computer science graduate and full time software engineer at @NG.CASH.
-- I’m interested in Java, TypeScript/JavaScript, Python, C, C++, PHP, Backend Frameworks, Microservices, DevOps and Networks.
+- I’m interested in Java, TypeScript/JavaScript, Python, C, C++, PHP, Backend Frameworks, Microservices, DevOps, LLMs and Networks.
 - I have 6 years of full experience with Scalable Services, Backend development, Backend architecture, Desktop development, Mobile Development (native and flutter/react native), Web development, Full stack development, Artificial Inteligence Integration, Services composition, Software Engineering and Infra DevOps (AWS, Azure, Bare Metal Self Hosted Servers).
-- 3-time Progaramation Marathon Champion, 🥉third place in Federal Institute of Brazil Development Championship, Alfa Engenharia 2023 hackathon champion team.
+- Three-time Programming Marathon champion, 🥉third place in the Programming Championship of the Federal Institute of Brazil, winning team of the Alfa Engenharia 2023 hackathon.
 - My personal website: https://leonjr.dev
 
 <hr>
